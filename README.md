@@ -1,6 +1,6 @@
-## Mongo, Express, and Node GraphQL
+## Mongo, Express, Node, GraphQL
 
-<img src="https://plus.unsplash.com/premium_photo-1661910502731-b5e0a0c306bf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjA1fHxhdG9tfGVufDB8fDB8fHww" alt="GraphQL" width="350" />
+<img src="https://plus.unsplash.com/premium_photo-1658506952924-d3ebaeca8139?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80" alt="GraphQL" width="350" />
 
 ### Setup
 
